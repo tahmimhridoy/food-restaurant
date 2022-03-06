@@ -1,8 +1,13 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Karla:wght@300;400;500;600;700&family=Lato:wght@300&family=Lobster&family=Oswald:wght@200;300;400;500;600;700&family=Pacifico&family=Poppins:wght@300;400;500;600;700;800&family=Righteous&family=Source+Sans+Pro&family=Source+Serif+Pro:ital,wght@0,400;1,600&display=swap'); */
 *{
     padding: 0; 
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    overflow: hidden;
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
 }
